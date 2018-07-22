@@ -1,0 +1,1 @@
+document.write("<img src = \"" + Math.floor(1 + Math.random() * 7) + ".gif\" />");
